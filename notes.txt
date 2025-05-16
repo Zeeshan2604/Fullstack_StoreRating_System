@@ -1,0 +1,59 @@
+TESTS DONE:
+Already created these and test if all the data is properly displayed.
+Tests were success!
+
+Admins:
+{
+  "name": "Jonathan Admin Smith",
+  "email": "admin@example.com",
+  "password": "Admin@1234",
+  "address": "123 Admin Street",
+  "role": "admin"
+}
+
+{
+  "name": "John _ from Pune",
+  "email": "john@example.com",
+  "password": "Admin@1234",
+  "address": "123 Admin Street",
+  "role": "admin"
+}
+
+
+
+
+Owners:
+{
+  "name": "Store Owner Guy Smith",
+  "email": "owner@example.com",
+  "password": "Owner@1234",
+  "address": "Owner Address",
+  "role": "owner"
+}
+
+{
+  "name": "Store Owner Joey Joseph",
+  "email": "joeyowner@example.com",
+  "password": "Owner@1234",
+  "address": "Owner Address 2",
+  "role": "owner"
+}
+
+
+
+Users:
+{
+  "name": "Alice Normal User",
+  "email": "user@example.com",
+  "password": "User@1234",
+  "address": "789 User Ave",
+  "role": "user"
+}
+
+{
+  "name": "Mary from Australia",
+  "email": "user_2_@example.com",
+  "password": "User2@1234",
+  "address": "User 2 Address",
+  "role": "user"
+}
