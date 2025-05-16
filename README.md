@@ -24,7 +24,7 @@ A full-stack web application that allows users to rate stores, built using:
 
 ---
 
-## Backend Setup
+📄 Backend Setup
 
 1. Clone the repo:
    ```bash
@@ -84,3 +84,22 @@ Create a .env file:
 6. Run the server:
    ```bash
       npx nodemon server.js
+
+
+
+🌐 Frontend Setup
+
+1. Navigate to the frontend folder:
+
+   ```bash
+      cd ../frontend
+
+2. Install dependencies:
+   ```bash
+      npm install
+
+3. Start the React app:
+   ```bash
+      npm start
+   
+The frontend runs on http://localhost:3000.
