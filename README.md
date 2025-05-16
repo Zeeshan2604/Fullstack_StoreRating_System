@@ -85,8 +85,6 @@ Create a .env file:
    ```bash
       npx nodemon server.js
 
-
-
 🌐 Frontend Setup
 
 1. Navigate to the frontend folder:
@@ -103,3 +101,9 @@ Create a .env file:
       npm start
    
 The frontend runs on http://localhost:3000.
+
+
+🔐 Default Roles
+During signup, users are registered as "user"
+
+Only admins can create users with roles: "admin", "owner"
