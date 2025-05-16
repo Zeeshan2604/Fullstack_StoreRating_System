@@ -28,7 +28,7 @@ A full-stack web application that allows users to rate stores, built using:
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/your-username/store-rating-platform.git
+   git clone https://github.com/Zeeshan2604/Fullstack_StoreRating_System.git
    cd store-rating-platform/backend
 
 2. Install dependencies:
